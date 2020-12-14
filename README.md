@@ -13,3 +13,7 @@ Download the files in this directory (besides this README.md file) and put them 
 # Description
 
 A custom hud for Team Fortress 2 that fixes the large amounts of lag when opening a menu that is caused by the in-game friends-list display.
+
+# Method
+
+Adds the `"visible" "0"` and `"enabled" "0"` properties to the `SteamFriendsList` object in the `` file.
