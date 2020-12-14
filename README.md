@@ -1,14 +1,14 @@
 # Installation instructions
 
-Download the files in this directory (besides this README.md file) and put them in the `` directory on your computer.
+Download the files in this directory (besides this README.md file) and put them in the `Steam/steamapps/common/Team Fortress 2/tf/custom` directory on your computer.
 
 ## Mac OS X directory
 
-
+`~/Library/Application Support/Steam/steamapps/common/Team Fortress 2/tf/custom`
 
 ## Windows Directory
 
-
+`C:\Program Files(x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 
 # Description
 
