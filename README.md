@@ -16,4 +16,4 @@ A custom hud for Team Fortress 2 that fixes the large amounts of lag when openin
 
 # Method
 
-Adds the `"visible" "0"` and `"enabled" "0"` properties to the `SteamFriendsList` object in the `` file.
+Adds the `"visible" "0"` and `"enabled" "0"` properties to the `SteamFriendsList` object in the `resource/ui/mainmenuoverride.res` file.
